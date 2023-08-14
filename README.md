@@ -7,4 +7,4 @@ A website that allows people to buy Bang&Olufsen company products over the inter
 
 Click on 'Your senses. Set free.' title to switch the theme.
 
-DEMO LINK(https://alyonasarapina.github.io/layout_landing-page/)
+[DEMO LINK](https://alyonasarapina.github.io/layout_landing-page/)
